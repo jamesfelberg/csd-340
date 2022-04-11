@@ -1,0 +1,45 @@
+#title {
+    text-align: center;
+    font-family: 'Oswald', Verdana, Arial, sans-serif}
+
+#leftdiv, #rightdiv {
+    width: 45%;
+    font-family: 'Oswald', Verdana, Arial, sans-serif;
+    font-weight: 300;}
+
+#leftdiv {
+    float: left;
+    border-width: 1px;
+    border-style: solid;
+    border-color: red;
+    border-radius: 15px;
+    padding: 10px;}
+
+#rightdiv {
+    float: right;
+    border-width: 1px;
+    border-style: dashed;
+    border-color: red;
+    border-radius: 15px;
+    padding: 10px;}
+
+#lastdiv {
+    width: 100%;
+    margin-top: 60%;
+    margin-bottom: 20px;
+    font-family: 'Oswald', Verdana, Arial, sans-serif;}
+
+#favorite {
+    text-decoration: none}
+
+#top{
+    float: right;
+    text-decoration: none}
+
+#favorite:hover, #top:hover {
+    text-decoration:underline;}
+
+h3 {font-weight: 500;}
+
+#ulstyle {
+    list-style-type: upper-roman;}
