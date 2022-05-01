@@ -7,7 +7,9 @@
     font-family: 'Oswald', Verdana, Arial, sans-serif;
     font-weight: 300;}
 
-#leftdiv {
+h1, h4 {color: red} h4 {color: black}
+
+    #leftdiv {
     float: left;
     border-width: 1px;
     border-style: solid;
